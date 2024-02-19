@@ -1,0 +1,41 @@
+body {
+    display: grid;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color:rgb(121, 42, 42);
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(175, 80, 80);
+    padding: 10px;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  p{
+    border: 20px;
+    padding: 20px;
+    background-color: rgb(232, 160, 160);
+  } 
+  
+  img{
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  li{
+    text-align: center;
+    display: block;
+  }
